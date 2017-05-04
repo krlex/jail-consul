@@ -1,0 +1,8 @@
+.provisioned
+*.retry
+playbook/group_vars/all
+playbook/inventory/inventory
+playbook/roles
+playbook/site.yml
+cbsd.conf
+vars.mk
